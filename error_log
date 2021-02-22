@@ -1,0 +1,6 @@
+[20-Dec-2020 10:54:41 UTC] [Unable to SELECT data from 'lists' table]Table 'u408702760_studio.lists' doesn't exist: in /home/u408702760/domains/inboxera.com/public_html/studio/includes/update.php on line 923
+[20-Dec-2020 10:54:41 UTC] [Unable to SELECT data from 'apps' table]Table 'u408702760_studio.apps' doesn't exist: in /home/u408702760/domains/inboxera.com/public_html/studio/includes/update.php on line 940
+[20-Dec-2020 10:58:02 UTC] [Unable to SELECT data from 'lists' table]Table 'u408702760_studio.lists' doesn't exist: in /home/u408702760/domains/inboxera.com/public_html/studio/includes/update.php on line 923
+[20-Dec-2020 10:58:02 UTC] [Unable to SELECT data from 'apps' table]Table 'u408702760_studio.apps' doesn't exist: in /home/u408702760/domains/inboxera.com/public_html/studio/includes/update.php on line 940
+[20-Dec-2020 10:58:04 UTC] [Unable to SELECT data from 'lists' table]Unknown column 'notify_new_signups' in 'field list': in /home/u408702760/domains/inboxera.com/public_html/studio/includes/update.php on line 923
+[20-Dec-2020 10:58:04 UTC] [Unable to SELECT data from 'apps' table]: in /home/u408702760/domains/inboxera.com/public_html/studio/includes/update.php on line 940
