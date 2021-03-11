@@ -7,9 +7,14 @@
 	define('APP_PATH', 'https://inboxera.com/studio');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = 'localhost'; //MySQL Hostname
-	$dbUser = 'u408702760_studio'; //MySQL Username
-	$dbPass = '@i9T+uGLDD'; //MySQL Password
+	// $dbHost = 'localhost'; //MySQL Hostname
+	// $dbUser = 'u408702760_studio'; //MySQL Username
+	// $dbPass = '@i9T+uGLDD'; //MySQL Password
+	// $dbName = 'u408702760_studio'; //MySQL Database Name
+
+	$dbHost = 'localhost:3306'; //MySQL Hostname
+	$dbUser = 'root'; //MySQL Username
+	$dbPass = 'root'; //MySQL Password
 	$dbName = 'u408702760_studio'; //MySQL Database Name
 	
 	
